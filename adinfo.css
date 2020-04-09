@@ -1,0 +1,109 @@
+body{
+	margin-top:-37px;	
+    margin-left:11px;
+	background-color : #838482;
+}
+.SchoolName h1{
+	text-shadow:  0px 7px #464d00;
+	font-size: 61px;
+	font-weight: bold;
+	text-align:center;
+	color:#feb626;
+	word-spacing : 10px;
+}
+.SchoolName h2{
+	text-shadow: 5px 0px #327F32;
+	font-size: 41px;
+	font-weight: bold;
+	text-align:center;
+	color:#39ec48;
+	word-spacing: 10px;
+}
+.SchoolName h6{
+	font-size: 17px;
+	font-weight: bold;
+	text-align:center;
+	color:#06fc23;
+}
+.SchoolName{
+	background-image :url("schoolname555555.jpg");
+	height:188px;
+	width: 1341px;
+	line-height:23px;
+	margin-left:-8px;
+	padding-bottom:2px;
+}
+.WelComeMessage marquee{
+	margin-left:-8px;
+	margin-right:-23px;
+	margin-top :2px;
+	background-color : #e8fe0e;
+	color:#1316fc;
+	font-weight:bold;
+	height : 25px;
+	padding : 4px;
+}
+.WelComeMessage{
+	width:1310px;
+}
+.Admission h2{
+	text-shadow: 6px 2px #004d00;
+	font-size: 70px;
+	font-style:italic;
+	font-weight: bold;
+	text-align:center;
+	color: #00f9f0;
+}
+.Admission img{
+	margin-top:-40px;
+	margin-left:321px;
+	height: 435px;
+	width:698px;
+	
+}
+.footer{
+	margin-left: -7px;
+	margin-top:91px;
+	height :149px;
+	width: 1341px;
+	background-color:#7026ba;
+}
+.footer h3{
+	padding-bottom:2px;
+	padding-left :24px;
+	color: #f6f300;
+	font-size:22px;
+    font-weight:bold;
+	text-decoration:underline;
+}
+.footer p{
+	padding-left: 23px;
+	color: #f9f9f9;
+	font-size:16px;
+	font-weight:bold;
+}
+
+.footer img{
+	padding-top:20px;
+	padding-bottom:20px;
+	margin-top: -149px;
+	margin-right:-7px;
+	margin-left:832px;
+	height:121px;
+	width:469px;
+}
+.Last h6{
+	
+	text-align: center;
+	margin-bottom:2px;
+	font-size:18px;
+	color: #662828;
+	padding-bottom:2px;
+}
+.Last{
+	margin-top:-41px;
+	background-color: #15c302;
+	height:24px;
+	width:1341px;
+	margin-left:-7px;
+}
